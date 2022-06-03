@@ -46,3 +46,11 @@ Configuration
 -------------
 The configuration of dwm is done by creating a custom config.h
 and (re)compiling the source code.
+
+My Patches
+-------------
+I added the fullgaps patch:
+https://dwm.suckless.org/patches/fullgaps/
+
+I added the splitstatus patch:
+https://dwm.suckless.org/patches/splitstatus/
