@@ -54,3 +54,6 @@ https://dwm.suckless.org/patches/fullgaps/
 
 I added the splitstatus patch:
 https://dwm.suckless.org/patches/splitstatus/
+
+I added the actualfullscreen patch:
+https://dwm.suckless.org/patches/actualfullscreen/
